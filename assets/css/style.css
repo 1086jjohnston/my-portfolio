@@ -255,31 +255,24 @@ footer {
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER*/
 @media screen and (max-width: 575px) {
 
-    .hero-form button {
-        width: 100%;
-      }
     
-      .section-title {
-        width: 95%;
-      }
+    
+      
     
       .bio {
         width: 100%;
       }
     
-      .trainer {
-        flex: 0 100%;
-      }
-    
-      .contact-me {
+          
+      .contact-me  button{
         text-align: center;
       }
     
-      .contact-me > * {
+      .contact-me button > * {
         flex: 0 100%;
       }
 
-      .contact-me {
+      .contact-me button {
         order: 3;
       }
     

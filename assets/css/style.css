@@ -253,11 +253,7 @@ footer {
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER*/
-@media screen and (max-width: 575px) {
-
-    
-    
-      
+@media screen and (max-width: 575px) {  
     
       .bio {
         width: 100%;

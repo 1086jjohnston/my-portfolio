@@ -177,6 +177,20 @@ footer {
     transition: 1s;
 }
 
+.programmerDashboard {
+    width:200px;
+    height:200px;
+    transform: scale(0.6);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    display: flex;
+    justify-content: center;
+}
+
+.programmerDashboard:hover {
+transform: scale(1.0);
+transition: 1s;
+}
+
 
 
 
